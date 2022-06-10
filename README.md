@@ -9,10 +9,10 @@
 
 ## Skills
 
-*   Typescript , Python , Javascript
-*   Angular , Flask
-*   Tailwind CSS
-*   PostgreSQL
+* 🧑‍💻 Typescript , Python , Javascript.
+* ⚙️ Angular , Flask.
+* 👁 Tailwind CSS.
+* 💽 PostgreSQL.
 
 <hr>
 
