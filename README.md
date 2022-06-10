@@ -5,3 +5,5 @@
 - 🔭  I'm Currently Working on Developing my career and grow up as a professional.
 - 🪴  I'm Currently learning about Python Web scrapping and Intermediate level of Angular.
 
+<a href="https://twitter.com/jcotedaruma" ><img src="https://img.shields.io/twitter/follow/jcotedaruma.svg?style=social" /> </a>
+
