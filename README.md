@@ -20,5 +20,5 @@ Favorite IDLE 👨‍💻 : Pycharm of jetbrains
 
 <hr>
 
-<a href="https://twitter.com/jcotedaruma" ><img src="https://img.shields.io/twitter/follow/jcotedaruma.svg?style=social" /> </a>
+
 
