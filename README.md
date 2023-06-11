@@ -1,5 +1,5 @@
 ## ✨ Hola 👋 🧑‍💻 
-<img  src="./Githubmd.svg">
+
 
 - 🏠  I'm a Fifth year Software engineering Student at Universidad Mayor from Santiago , Chile 🇨🇱 .
 - 🔭  I'm Currently Working on Developing my career and growing as a professional.
