@@ -1,4 +1,4 @@
-## ✨ Hola 👋 🧑‍💻 
+## ✨ Hola 👋 
 
 
 - 🏠  I'm a Fifth year Software engineering Student at Universidad Mayor from Santiago , Chile 🇨🇱 .
@@ -11,12 +11,12 @@
 
 ## Skills
 
-* 🧑‍💻 Python (#1), Typescript , Javascript.
+* 💻 Python (#1), Typescript , Javascript.
 * ⚙️ Angular , Flask , nginx.
 * 👁 Tailwind CSS , bootstrap.
 * 💽 PostgreSQL.
 
-Favorite IDLE 👨‍💻 : Pycharm of jetbrains
+Favorite IDLE  : Pycharm of jetbrains
 
 <hr>
 
