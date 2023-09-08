@@ -9,7 +9,7 @@
 
 <hr>
 
-## Learnng 
+## Learning 
 * Sveltie
 * 
 
