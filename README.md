@@ -8,15 +8,10 @@
 - 🌎  I'm An English Speaker , Spanish and a Japanese Learner certified with the level N4 of the Japanese Language Proficiency Test (JLPT) 🇯🇵 
 
 <hr>
-
-## Learning 
-* Sveltie
-* 
-
 ## Skills
 
-* 💻 Python (#1), Typescript , Javascript.
-* ⚙️ Angular , Flask , nginx.
+* 💻 Python (#1), Typescript, Javascript, Angular, Svelte.
+* ⚙️ Angular, Flask, nginx.
 * 👁 Tailwind CSS , bootstrap.
 * 💽 PostgreSQL.
 
