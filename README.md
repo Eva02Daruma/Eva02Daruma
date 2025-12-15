@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=301&color=gradient&text=✨こんにちは&section=header&textBg=false&rotate=1&reversal=false&animation=fadeIn)
 
 <div align="center">
-
-  <h3> 👨‍💻 Software Engineer | Data & AI Enthusiast </h3>
+  <h2>Laura Araya </h2>
+  <h3>Software Engineer | Data & AI </h3>
 
   ---
 
