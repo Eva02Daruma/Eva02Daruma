@@ -5,6 +5,7 @@
     <img src="https://skillicons.dev/icons?i=cs,py,ts,processing,html,css,angular,react,svelte,nextjs,tailwind,vite,fastapi,flask,sklearn,opencv,selenium,gherkin,mysql,postgres,sqlite,redis,aws,azure,cloudflare,workers,vercel,docker,nginx,git,postman,linux,vscode,blender&theme=dark" />
   </a>
 </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eva02daruma&theme=dark&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook&hide_border=true)
 
 
