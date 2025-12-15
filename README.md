@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h3><Laura Araya | Software Engineer | Data & AI </h3>
+  <h3>Laura Araya | Software Engineer | Data & AI </h3>
 
   ---
 
