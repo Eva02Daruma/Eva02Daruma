@@ -5,15 +5,8 @@
   <h3>Laura Araya | Software Engineer | Data & AI </h3>
 
   ---
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,processing,html,css,angular,react,svelte,nextjs,tailwind,vite&theme=dark" />
-  </a>
-  
-  <br/> <br/>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,sklearn,opencv,selenium,gherkin,mysql,postgres,sqlite,redis,aws,azure,cloudflare,workers,vercel,docker,nginx,git,postman,linux,vscode,blender&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,py,ts,processing,html,css,angular,react,svelte,nextjs,tailwind,vite,fastapi,flask,sklearn,opencv,selenium,gherkin,mysql,postgres,sqlite,redis,aws,azure,cloudflare,workers,vercel,docker,nginx,git,postman,linux,vscode,blender&theme=dark" />
   </a>
 
   <br/> <br/>
