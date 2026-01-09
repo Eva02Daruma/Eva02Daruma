@@ -16,8 +16,6 @@
   </a>
 
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eva02daruma&theme=dark&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook&hide_border=true)]
   
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdidXFiOGlnNjA1M3h4Y2hqcGYzY2Y0amo3NTVjZjAwaGhrcmp3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVu4KgHEVFG1i/giphy.gif" height="170" />
