@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=301&color=gradient&text=✨こんにちは&section=header&textBg=false&rotate=1&reversal=false&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=301&color=gradient&text=✨お疲れ様です&section=header&textBg=false&rotate=1&reversal=false&animation=fadeIn)
    <h3>Laura Araya | Software Engineer | Data & AI </h3>
    
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhmN3NuajllNGswZmUxZWd5ZW41cGNuZHl6NThxdDl0cmRkd2NpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRr6w71DZxXig/giphy.gif" width="450" />
